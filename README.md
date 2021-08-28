@@ -1,16 +1,16 @@
 # sonoff
 
-# how to flash
+# How to flash
 	https://www.instructables.com/How-to-Get-Started-With-ESP8285-Module-/
 	https://tropratik.fr/programmer-esp8285-avec-arduino
 	https://github.com/arendst/Tasmota/issues/3698
 	bestlink : https://www.tutos.eu/6215 
 
-# adaptor for 8285
+#  Building adapter for 8285
 
-[Adaptor shopping](https://notenoughtech.com/home-automation/esp8266-flash-adapter/)
+[Adapter building](https://notenoughtech.com/home-automation/esp8266-flash-adapter/)
 
-# Pour télécharger le firmware Tasmota 
+# Pour télécharger le firmware Tasmota :
 	
 * 1 - [Tasmota releases](https://github.com/arendst/Tasmota/releases)
 
