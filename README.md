@@ -11,11 +11,11 @@
 
 # Pour télécharger le firmware Tasmota 
 	
-[Tasmota releases](https://github.com/arendst/Tasmota/releases)
+* 1 - [Tasmota releases](https://github.com/arendst/Tasmota/releases)
 
-* 1 - [logiciel de flash NodeCMU PyFlasher](https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v4.0) / [tuto youtube](https://youtu.be/3aLcRPbp1As)
+* 2 - [logiciel de flash NodeCMU PyFlasher](https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v4.0) / [tuto youtube](https://youtu.be/3aLcRPbp1As)
 
-* 2 - [Tasmotizer](https://notenoughtech.com/home-automation/tasmotizer/)
+* 3 - [Tasmotizer](https://notenoughtech.com/home-automation/tasmotizer/)
 
 # esp8285 datasheet
 	https://www.espressif.com/en/products/socs
