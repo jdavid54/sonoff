@@ -7,7 +7,8 @@
 	bestlink : https://www.tutos.eu/6215 
 
 # adaptor for 8285
-	https://notenoughtech.com/home-automation/esp8266-flash-adapter/
+
+[Adaptor shopping](https://notenoughtech.com/home-automation/esp8266-flash-adapter/)
 
 # Pour télécharger le firmware Tasmota 
 	
